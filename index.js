@@ -1,4 +1,6 @@
-import { Person } from "./person.js";
+const {Person} = require("./person.js")
+
+//require("./modules/path.js");
 
 const person = new Person('Senna');
 
